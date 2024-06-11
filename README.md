@@ -1,4 +1,4 @@
-##EcoCollect - Web-Based Garbage Collection System
+# EcoCollect - Web-Based Garbage Collection System
 
 Our team is excited to introduce "EcoCollect," an innovative web-based garbage collection system developed as part of our third-year, first-semester project in Web Application Development using the MERN stack (MongoDB, Express.js, React, Node.js). Designed to streamline the garbage disposal process, EcoCollect offers a comprehensive and user-friendly platform that promotes proper waste management and environmental awareness.
 
