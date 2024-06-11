@@ -6,9 +6,11 @@ EcoCollect features a secure User Authentication system, allowing individuals to
 
 EcoCollect stands out with two unique features:
 
-Educational Resources: The platform provides educational videos on proper garbage disposal practices. These videos, which can only be managed by administrators, are accessible to all users, offering valuable knowledge to enhance their waste management practices.
+  1. Educational Resources: The platform provides educational videos on proper garbage disposal practices. These videos, which can only be managed by administrators, are accessible to all users, offering 
+    valuable knowledge to enhance their waste management practices.
 
-Reward System: EcoCollect incentivizes correct garbage disposal by awarding points to users based on the type of garbage they dispose of. This gamified approach encourages users to participate actively and responsibly in waste management.
+  2. Reward System: EcoCollect incentivizes correct garbage disposal by awarding points to users based on the type of garbage they dispose of. This gamified approach encourages users to participate actively 
+     and responsibly in waste management.
 
 The platform also includes a Blog section, featuring articles and pictures about garbage collection. Users can read these posts to gain further insights into effective waste management practices.
 
